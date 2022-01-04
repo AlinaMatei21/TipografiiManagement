@@ -1,0 +1,40 @@
+Tipografie TypoBucSF
+adresa: 'Bucuresti
+[categorie: 'SF', nrVolume: 4, autor: 'J.K.Rolling', anPublicatie: 2004, taraOrigine: America
+, categorie: 'SF', nrVolume: 2, autor: 'Alina Matei', anPublicatie: 2009, taraOrigine: Romania
+, categorie: 'SF', nrVolume: 2, autor: 'Andi Weir', anPublicatie: 2004, taraOrigine: Germania
+]
+
+
+Tipografie TypoCtSF
+adresa: 'Constanta
+[categorie: 'SF', nrVolume: 4, autor: 'J.K.Rolling', anPublicatie: 2004, taraOrigine: America
+, categorie: 'SF', nrVolume: 2, autor: 'Alina Matei, anPublicatie: 2009, taraOrigine: Romania
+, categorie: 'SF', nrVolume: 2, autor: 'Andi Weir', anPublicatie: 2004, taraOrigine: Germania
+]
+
+
+Tipografie TypoCtGT
+adresa: 'Constanta
+[categorie: 'ghid turistic', nrVolume: 2, autor: 'Joseph Atlas', titlu: Suedia', orase: [Stockholm, Halmstad, Lund]
+, categorie: 'ghid turistic', nrVolume: 2, autor: 'Joseph Atlas', titlu: Elvetia', orase: [Zurich, Geneva, Zernatt]
+, categorie: 'ghid turistic', nrVolume: 2, autor: 'Joseph Atlas', titlu: Romania', orase: [Bucuresti, Cluj, Sibiu]
+]
+
+
+Tipografie TypoBucGT
+adresa: 'Bucuresti
+[categorie: 'ghid turistic', nrVolume: 2, autor: 'Joseph Atlas', titlu: Suedia', orase: [Stockholm, Halmstad, Lund]
+, categorie: 'ghid turistic', nrVolume: 2, autor: 'Joseph Atlas', titlu: Elvetia', orase: [Zurich, Geneva, Zernatt]
+, categorie: 'ghid turistic', nrVolume: 2, autor: 'Joseph Atlas', titlu: Romania', orase: [Bucuresti, Cluj, Sibiu]
+]
+
+
+Tipografie TypoBucBucate
+adresa: 'Bucuresti
+[categorie: 'bucate', nrVolume: 1, autor: 'Jamie Oliver', nrExemplare: 79, editura: 'Litera'
+, categorie: 'bucate', nrVolume: 2, autor: 'Jamie Guliver', nrExemplare: 100, editura: 'Humanitas'
+, categorie: 'bucate', nrVolume: 3, autor: 'Oliver James', nrExemplare: 100, editura: 'Litera'
+]
+
+
